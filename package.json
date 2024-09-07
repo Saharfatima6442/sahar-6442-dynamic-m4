@@ -1,0 +1,11 @@
+{
+  "name": "dynamic-m4",
+  "version": "1.0.0",
+  "description": "This is editable dynamic resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahar Fatima",
+  "license": "ISC"
+}
